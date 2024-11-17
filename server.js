@@ -1,5 +1,3 @@
-// import express from 'express'
-// import sequelize from './config/db.js'
 const express = require("express");
 const sequelize = require("./config/db");
 
